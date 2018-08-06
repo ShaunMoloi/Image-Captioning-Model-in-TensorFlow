@@ -1,6 +1,4 @@
-# Image Captioning Model in TensorFlow
 
-This repo follows the blog post from here: 
 https://vanishingcodes.wordpress.com/2017/03/20/using-tensorflow-to-build-image-to-text-deep-learning-application/
 
 You can find Image Captioning model implemented using TensorFlow in this repo. The model trains on MSCOCO data set which is downloadable from link: 
